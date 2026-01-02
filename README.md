@@ -7,7 +7,7 @@
 <img align="right" height="300" width="500" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
 
 <!-- Experience and achievements -->
-<h3 align="left"><font size="+2" face="Verdana">💡 Building, Learning, and Innovating</font></h3>
+<h3 align="left"><font size="+2" face="Verdana"> Building, Learning, and Innovating 💡</font></h3>
 
 
 - Delivering integration solutions as a Workday Technical Consultant for over 2 years.
@@ -24,3 +24,7 @@
 
 #### Frontend Stack
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" alt="c" title="c" width="40" height="40"/>   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/next_js.png" alt="c" title="c" width="40" height="40"/> <img src="https://user-images.githubusercontent.com/53833680/72835656-0629b380-3c83-11ea-919e-82c7aad75e4e.png" alt="c" title="c" width="40" height="40"/> <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" alt="c" title="c" width="40" height="40"/>   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" alt="c" title="c" width="40" height="40"/> <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bootstrap.png" alt="c" title="c" width="40" height="40"/> <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tailwind_css.png" alt="c" title="c" width="40" height="40"/> 
+
+#### Backend & Databases
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/node_js.png" alt="c" title="c" width="50" height="50"/> <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/express.png" alt="c" title="c" width="40" height="40"/> <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/django.png" alt="c" title="c" width="40" height="40"/> <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png" alt="c" title="c" width="50" height="50"/> <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mongodb.png" alt="c" title="c" width="50" height="50"/>
+
